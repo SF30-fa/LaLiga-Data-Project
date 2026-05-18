@@ -9,8 +9,8 @@ This project analyzes data from LaLiga teams between the 2020-21 season and the 
 -KRI Alerts Table
 ![KRI Alerts](screenshots/KRISummary_Table.png)
 
--Risk By Team Table
-<img src="screenshots/RiskByTeam_Table.png" length=100 width=50>
+-Risk By Team Table <br>
+<img src="screenshots/RiskByTeam_Table.png" length=400 width=250>
 
 
 ***Note**
