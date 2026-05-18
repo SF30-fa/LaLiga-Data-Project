@@ -11,7 +11,7 @@ This project analyzes data from LaLiga teams between the 2020-21 season and the 
 
 -Risk By Team Table
 
-<img src="screenshots/RiskByTeam_Table.png" length=2400 width=1250>
+<img src="screenshots/RiskByTeam_Table.png" length=1400 width=850>
 
 
 ***Note**
