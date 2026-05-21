@@ -44,6 +44,11 @@ KRI Monitoring
 > Relegation-risk detection
 > Negative goal-difference monitoring
 
+# (In Progress)
+
+-Operations Dashboard
+<img width="898" height="505" alt="Operations_Dashboard" src="https://github.com/user-attachments/assets/dd7a6db9-6d30-4ac3-819a-c34e622c1e74" />
+
 
 # Disclaimer
 
