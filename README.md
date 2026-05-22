@@ -4,11 +4,11 @@ This project analyzes data from LaLiga teams between the 2020-21 season and the 
 
 # Report Sheets
 -KPI Summary Table
-<img src="screenshots/KPISummary_Table.png" length=800 width=250>
+<img src="screenshots/KPISummary_Table.png" length=800 width=600>
 
 
 -KRI Alerts Table
-<img src="screenshots/KRISummary_Table.png" length=800 width=250>
+<img src="screenshots/KRISummary_Table.png" length=800 width=600>
 
 
 -Risk By Team Table
@@ -47,7 +47,7 @@ KRI Monitoring
 
 # Operations Dashboard (In Progress)
 
-<img src="screenshots/Operations_Dashboard.png" length=800 width=250>
+<img src="screenshots/Operations_Dashboard.png" length=800 width=600>
 
 # Disclaimer
 
