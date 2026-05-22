@@ -45,7 +45,7 @@ KRI Monitoring
 > Negative goal-difference monitoring
 
 # Operations Dashboard (In Progress)
-<img width="898" height="505" alt="Operations_Dashboard" src="https://github.com/user-attachments/assets/dd7a6db9-6d30-4ac3-819a-c34e622c1e74" />
+
 
 
 # Disclaimer
