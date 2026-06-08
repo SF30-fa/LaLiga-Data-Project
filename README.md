@@ -22,14 +22,23 @@ This project analyzes data from LaLiga teams between the 2020-21 season and the 
 The dashboard formatting and visual presentation within Excel were refined manually to improve readability and presentation quality.
 
 # Features
+
 -KPI monitoring and reporting;
+
 -KRI/operational risk detection;
+
 -Data cleaning and validation;
+
 -Exception reporting;
+
 -Dashboard-ready datasets;
+
 -Automated Excel report generation;
+
 -Multi-season performance analysis;
+
 -Jupyter Notebook workflow and visualization.
+
 
 # Example outputs
 
@@ -48,7 +57,7 @@ KRI Monitoring
 > Relegation-risk detection
 > Negative goal-difference monitoring
 
-# Operations Dashboard (In Progress)
+# Operations Dashboard
 
 <img src="screenshots/Operations_Dashboard.png" length=800 width=600>
 
